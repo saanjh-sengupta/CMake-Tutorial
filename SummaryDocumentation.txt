@@ -1,0 +1,30 @@
+CMAKE TUTORIAL
+
+VERSION 1:
+    -- Simple program using a single .cpp file.
+
+
+VERSION 2:
+    -- Running CMake over a single .hpp/.h file and a .cpp file.
+    -- Tip: mkdir include
+
+
+VERSION 3:
+    -- Multiple source (.cpp) files
+    -- Tip: mkdir source
+
+
+VERSION 4:
+    -- CMake Building over a custom library
+
+
+VERSION 5:
+    -- Linking two CMakeLists.txt in a single project
+
+
+VERSION 6:
+    -- Depending on external library (pre-defined)
+    -- Tip: Use find_package
+
+
+Detailed Reference: https://codevion.github.io/#!cpp/cmake.md
