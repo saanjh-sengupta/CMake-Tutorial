@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Demo6.dir/Demo6.cpp.o  -o Demo6  CustomLibrary/libCustomLibrary.a 

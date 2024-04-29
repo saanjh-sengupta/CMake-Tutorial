@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../CustomLibrary/include/CustomPackage.h
+iostream
+-
+optional
+-
+
+/home/kpit/Desktop/KPIT Genesis 2024/CMake/Version 6/Demo6.cpp
+CustomPackage.h
+/home/kpit/Desktop/KPIT Genesis 2024/CMake/Version 6/CustomPackage.h
+SFML/System.hpp
+-
+SFML/Main.hpp
+-
+

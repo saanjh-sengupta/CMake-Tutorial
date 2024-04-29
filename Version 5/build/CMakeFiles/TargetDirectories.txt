@@ -1,0 +1,6 @@
+/home/kpit/Desktop/KPIT Genesis 2024/CMake/Version 5/build/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/KPIT Genesis 2024/CMake/Version 5/build/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/KPIT Genesis 2024/CMake/Version 5/build/CMakeFiles/Demo5.dir
+/home/kpit/Desktop/KPIT Genesis 2024/CMake/Version 5/build/CustomLibrary/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/KPIT Genesis 2024/CMake/Version 5/build/CustomLibrary/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/KPIT Genesis 2024/CMake/Version 5/build/CustomLibrary/CMakeFiles/CustomLibrary.dir
